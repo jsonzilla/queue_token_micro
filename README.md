@@ -1,5 +1,5 @@
 # QueueTokenMicro
-[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?https://github.com/jsonzilla/QueueTokenMicro
+[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?https://github.com/jsonzilla/QueueTokenMicro)
 
 A small application to use tokens to restart Windows machines
 
