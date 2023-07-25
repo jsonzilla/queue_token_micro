@@ -4,4 +4,4 @@ Jinja2
 tinydb
 python-multipart
 python-dateutil
-deta[async]==1.1.0
+deta[async]==1.2.0
